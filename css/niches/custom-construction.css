@@ -3,14 +3,14 @@ a:hover { color: #e40000;}
 .site-header.style2 .topnav.social-icons { top: 0;}
 @media screen and (min-width: 992px) {
 	.main-nav > ul > li > a:before { background-color: #e40000; }
-	.chaser .main-menu { margin-top: 61px;}
+	.chaser .main-menu { margin-top: 0px;}
 }
 .site-header.style2 .kl-main-header { border-bottom: 3px solid #e40000;}
 .tcolor { color: #e40000 !important;}
 .chaser .main-menu li.active>a { background: #e40000 !important;}
 .kl-cta-ribbon { background: #e40000;}
 .kl-cta-ribbon .trisvg path {fill: #e40000;}
-.hover-box:hover { background-color: #e40000 !important;}
+.hover-box:hover { background-color: #243241 !important;}
 .site-header .kl-header-toptext a { color: #e40000;}
 .custom-position2 { background-color: rgb(226, 64, 0, 0.7) !important;}
 .circle-text-box .wpk-circle-title { color: #e40000;}
@@ -38,3 +38,7 @@ a:hover { color: #e40000;}
 .how_to_shop .number { background-color: #e40000; }
 .hg-portfolio-sortable #portfolio-nav li a:hover, 
 .hg-portfolio-sortable #portfolio-nav li.current a { background: #e40000;}
+
+.rs-hover-ready:hover {
+	color: #fff;
+}
