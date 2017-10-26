@@ -3,7 +3,7 @@ a:hover { color: #e40000;}
 .site-header.style2 .topnav.social-icons { top: 0;}
 @media screen and (min-width: 992px) {
 	.main-nav > ul > li > a:before { background-color: #e40000; }
-	.chaser .main-menu { margin-top: 61px;}
+	.chaser .main-menu { margin-top: 0px;}
 }
 .site-header.style2 .kl-main-header { border-bottom: 3px solid #e40000;}
 .tcolor { color: #e40000 !important;}
