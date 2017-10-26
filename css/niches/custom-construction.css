@@ -12,7 +12,7 @@ a:hover { color: #e40000;}
 .kl-cta-ribbon .trisvg path {fill: #e40000;}
 .hover-box:hover { background-color: #e40000 !important;}
 .site-header .kl-header-toptext a { color: #e40000;}
-.custom-position2 { background-color: rgba(226, 64, 0, 0.7) !important;}
+.custom-position2 { background-color: rgb(226, 64, 0, 0.7) !important;}
 .circle-text-box .wpk-circle-title { color: #e40000;}
 .circle-text-box .wpk-circle-span:after { background-color: #e40000;}
 .circle-text-box.style2 .wpk-circle-span::before { background: #e40000;}
